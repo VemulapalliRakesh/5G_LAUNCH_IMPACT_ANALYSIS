@@ -1,6 +1,6 @@
 # CRPC3: AtliQO: 5G TELECOM ANALYSIS
 
-## Created by- Vemulapalli rakesh @ Data Analyst [Linkeldin Profile](https://www.linkedin.com/in/vemulapallisairakesh/)
+## Created by- Vemulapalli rakesh @ Data Analyst [Linkedin Profile](https://www.linkedin.com/in/vemulapallisairakesh/)
 ### Live Dashboard at Novypro [Live_link_Novypro](https://www.novypro.com/project/mitrons-bank-credit-card-analysis)
 #
 ## Table of Content
