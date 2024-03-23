@@ -32,69 +32,53 @@ AtliQo, a leading telecom provider in India, experienced a decline in active use
 
 I have conducted a thorough customer  5G Over View using Power BI, and here are the key findings presented in a visually engaging manner:
 
-![Page 1](https://github.com/VemulapalliRakesh/Images_repo/blob/main/home%20page.png)
+![Page 1](https://github.com/VemulapalliRakesh/5G_LAUNCH_IMPACT_ANALYSIS/blob/main/C3%20Input_for_Participants/5G-OVER%20VIEW.jpg)
 
-#### Before and After 5G:
+#### Before 5G:
 
-![1](https://github.com/VemulapalliRakesh/Images_repo/blob/main/challenge%238%20images/total_Customers.png)
+![1](https://github.com/VemulapalliRakesh/5G_LAUNCH_IMPACT_ANALYSIS/blob/main/C3%20Input_for_Participants/Before%205G.jpg)
 
-The dataset encompasses a substantial pool of 4000 customers, forming the foundation of our analysis.
+#### After 5G:
 
+![1](https://github.com/VemulapalliRakesh/5G_LAUNCH_IMPACT_ANALYSIS/blob/main/C3%20Input_for_Participants/After%205g.jpg)
 
-#### Total Revenue:
-![2](https://github.com/VemulapalliRakesh/Images_repo/blob/main/male%20and%20feamle%20customers.png)
+#### Chg % :
 
+![1](https://github.com/VemulapalliRakesh/5G_LAUNCH_IMPACT_ANALYSIS/blob/main/C3%20Input_for_Participants/CHG%20%25.png)
 
- * The majority of our customer base comprises males, accounting for 64.93%, indicating a slightly male-dominated demographic.
- * However, the substantial presence of females (35.08%) highlights a diverse customer landscape.
+After the introduction of 5G, there has been a notable decline in total revenue, accompanied by a surge in the number of unsubscribed users. Additionally, the Average Revenue Per User (ARPU) has increased, signaling a clear indication that plan prices may be perceived as too high by consumers. This suggests a need to reassess the pricing strategy of our plans, pinpointing where users might be opting to unsubscribe
+
+#### Revenue:
+![2](https://github.com/VemulapalliRakesh/5G_LAUNCH_IMPACT_ANALYSIS/blob/main/C3%20Input_for_Participants/Revenue.jpg)
+
+Among the top contributors to our revenue, the cities of Delhi and Chennai have exhibited a concerning decline following the rollout of 5G technology. This trend highlights a pivotal point of concern, indicating a need for further examination and strategic intervention in these key metropolitan areas.
 
 #### ARPU:
 
-![3](https://github.com/VemulapalliRakesh/Images_repo/blob/main/customer%20by%20age_group%20and%20gender.png)
+![3](https://github.com/VemulapalliRakesh/5G_LAUNCH_IMPACT_ANALYSIS/blob/main/C3%20Input_for_Participants/ARPU.png)
 
- * The age group 25-35 emerges as the most significant segment, with 1498 customers. This group, especially males, exhibits a strong presence.
- * Customers aged 35-45 also form a substantial portion (1273), demonstrating a balanced distribution between genders.
- * The 45+ age group, while smaller, remains a noteworthy segment that shouldn't be overlooked.
+While cities such as Delhi, Ahmedabad, and Patna boast commendable Average Revenue Per User (ARPU), the contrasting factor lies in the increasing number of active users within these urban centers. 
 
 #### Monthly Active users:
 
-![4](https://github.com/VemulapalliRakesh/Images_repo/blob/main/City_gender_distribution.png)
+![4](https://github.com/VemulapalliRakesh/5G_LAUNCH_IMPACT_ANALYSIS/blob/main/C3%20Input_for_Participants/Monthly%20active%20users.jpg)
 
- * Mumbai takes the lead in terms of customer concentration, with 1078 customers, predominantly males.
- * Other major cities like Chennai, Bangalore, and Delhi NCR also contribute significantly to our customer base.
+Since the launch of 5G, there's been a drop in active users in most cities  It's time to review our pricing and start some marketing campaigns.
 
-#### Monthly Inactive users:
+#### Monthly Unsubscribed users:
 
-![5](https://github.com/VemulapalliRakesh/Images_repo/blob/main/occupational_insight.png)
+![5](https://github.com/VemulapalliRakesh/5G_LAUNCH_IMPACT_ANALYSIS/blob/main/C3%20Input_for_Participants/Unsubscribed%20users.jpg)
 
- * Salaried IT Employees represent a large portion of our customers (1294), showcasing a tech-centric demographic.
- * The diversity in occupations, including freelancers and business owners, presents an opportunity to tailor services for varied professional needs.
-
-#### Plans:
-
-![6](https://github.com/VemulapalliRakesh/Images_repo/blob/main/marital_status_overview.png)
-
- * A significant majority of our customers are married (78.41%), emphasizing the importance of considering family-centric financial solutions.
- * Unmarried customers, though a smaller segment, still constitute a substantial 21.6% of our customer base.
+Since the introduction of 5G, there has been a significant increase in the number of unsubscribed users across all cities. Particularly concerning are Lucknow and Pune, where the rate of unsubscribed users exceeds 50%. Addressing this issue is critical to avoid potential negative publicity. 
 
 #### Total Plan Revenue:
 
-![a1](https://github.com/VemulapalliRakesh/Images_repo/blob/main/average_income_utilisation.png)
+![a1](https://github.com/VemulapalliRakesh/5G_LAUNCH_IMPACT_ANALYSIS/blob/main/C3%20Input_for_Participants/plan%20revnue.png)
 
-* Average Income Utilization stands at 42.82%
+Plans P1, P2, P3, and the recently introduced P11 collectively contributed to 60% of our revenue. Notably, despite being introduced after the rollout of 5G, P11 has proven to be a significant revenue generator. Among these plans, P1 remains the top performer to date. It's imperative to consider creating more plans akin to P1 and P11, ensuring they strike a balance between value and affordability for our customers.
 
-#### Top plans:
-
-![a2](https://github.com/VemulapalliRakesh/Images_repo/blob/main/total%20income%20and%20total_spent.png)
-
- * Total Income in 6 months: $1240M
- * Total Spends in 6 months: $531M
- 
 #### Market share:
 
-![a3](https://github.com/VemulapalliRakesh/Images_repo/blob/main/income_utilisation%20by%20age_group.png)
+![a3](https://github.com/VemulapalliRakesh/5G_LAUNCH_IMPACT_ANALYSIS/blob/main/C3%20Input_for_Participants/MS%25%20share%20.png)
 
- * Age group 25-34 exhibits the highest income, spend, and utilization (43.66%).
- * Second-highest is the 35-45 age group with a utilization rate of 46.52%.
-
-Implement advanced security features such as fraud alerts, biometric authentication, and virtual card numbers to enhance the safety of transactions. Communicate these security measures to build trust among users.
+Following the launch of 5G, Atliq has experienced a slight negative trend of -0.06% in its shares. In contrast, competitors have demonstrated notable increases in their share values.
